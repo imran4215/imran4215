@@ -332,7 +332,7 @@ motto: "Build things that matter. Ship things that work."
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://linkedin.com/in/ahmedalimran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827)](mailto:ahmedalimran.dev@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=111827)](https://x.com/ahmedalimran)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=111827)](https://facebook.com/ahmedalimran)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=111827)](https://www.facebook.com/ahmedalimran83/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=111827)](https://discord.com/users/ahmedalimran)
 [![Resume](https://img.shields.io/badge/Resume-00FF88?style=for-the-badge&logo=readdotcv&logoColor=black&labelColor=111827)](https://ahmedalimran.vercel.app/resume)
 
