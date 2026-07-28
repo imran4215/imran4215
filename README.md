@@ -15,17 +15,24 @@
 <div align="center">
 
 <!-- ============================================================
-     HERO BANNER — EPIC WAVE ENTRANCE
+     BANNER #1 — SYSTEM BOOT ANIMATION
+     ============================================================ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=36&duration=4500&pause=4000&color=00FF88&center=true&vCenter=true&random=false&width=950&height=140&lines=%3E_+INITIALIZING+AHMED+AL+IMRAN...;%3E_+ROLE%3A+FULL+STACK+DEVELOPER;%3E_+STATUS%3A+ACTIVE+%26+BUILDING;%3E_+SYSTEM+READY.+LET%E2%80%99S+SHIP." alt="System Boot" />
+
+<br/>
+
+<!-- ============================================================
+     BANNER #2 — EPIC WAVE ENTRANCE
      ============================================================ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=320&section=header&text=AHMED%20AL%20IMRAN&fontSize=54&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AI%20Architect&descAlignY=52&descSize=20" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=320&section=header&text=AHMED%20AL%20IMRAN&fontSize=54&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AI%20Architect&descAlignY=52&descSize=20" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=360&section=header&text=IMRAN&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=%3C%2F%3E+AHMED+AL+IMRAN+%7C+FULL+STACK+%3C%2F%3E&descAlignY=50&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=360&section=header&text=IMRAN&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=%3C%2F%3E+AHMED+AL+IMRAN+%7C+FULL+STACK+%3C%2F%3E&descAlignY=50&descSize=20" />
 </picture>
 
 <br/>
 
 <!-- ============================================================
-     ANIMATED TYPING SVG
+     TYPING SVG ANIMATION
      ============================================================ -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=500&color=00FF88&center=true&vCenter=true&random=false&width=700&height=65&lines=%3E_+console.log(%22Hello%2C+World!%22);%3E_+Ahmed+Al+Imran;%3E_+Full+Stack+%3C%2F%3E+Developer;%3E_+SaaS+Architect;%3E_+AI+Applications;%3E_+Open+Source+Contributor;%3E_+%22ship+it%22" alt="Typing Animation" />
@@ -195,10 +202,17 @@ motto: "Build things that matter. Ship things that work."
 
 <br/>
 
-<!-- Main Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imran4215&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00FF88&icon_color=00D4FF&text_color=ffffff&border_radius=10" />
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran4215&layout=compact&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00FF88&text_color=ffffff&border_radius=10" />
+<!-- Main Stats Card + Languages side by side using table -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=imran4215&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00FF88&icon_color=00D4FF&text_color=ffffff&border_radius=10" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran4215&layout=compact&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00FF88&text_color=ffffff&border_radius=10" />
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -225,7 +239,7 @@ motto: "Build things that matter. Ship things that work."
 <br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=imran4215&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=imran4215&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
 </div>
 
