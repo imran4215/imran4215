@@ -15,18 +15,11 @@
 <div align="center">
 
 <!-- ============================================================
-     BANNER #1 — SYSTEM BOOT ANIMATION
-     ============================================================ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=36&duration=4500&pause=4000&color=00FF88&center=true&vCenter=true&random=false&width=950&height=140&lines=%3E_+INITIALIZING+AHMED+AL+IMRAN...;%3E_+ROLE%3A+FULL+STACK+DEVELOPER;%3E_+STATUS%3A+ACTIVE+%26+BUILDING;%3E_+SYSTEM+READY.+LET%E2%80%99S+SHIP." alt="System Boot" />
-
-<br/>
-
-<!-- ============================================================
-     BANNER #2 — EPIC WAVE ENTRANCE
+     HERO BANNER — EPIC WAVE ENTRANCE
      ============================================================ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=360&section=header&text=IMRAN&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=%3C%2F%3E+AHMED+AL+IMRAN+%7C+FULL+STACK+%3C%2F%3E&descAlignY=50&descSize=20" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=360&section=header&text=IMRAN&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=%3C%2F%3E+AHMED+AL+IMRAN+%7C+FULL+STACK+%3C%2F%3E&descAlignY=50&descSize=20" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=360&section=header&text=IMRAN&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Full+Stack+Developer+%7C+AI+Integration&descAlignY=55&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,30:00ff88,70:ff0066,100:0a0e17&height=360&section=header&text=IMRAN&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Full+Stack+Developer+%7C+AI+Integration&descAlignY=55&descSize=22" />
 </picture>
 
 <br/>
@@ -189,7 +182,7 @@ motto: "Build things that matter. Ship things that work."
 <br/>
 
 <!-- ============================================================
-     GITHUB STATISTICS — FULL ANALYTICS SUITE
+     GITHUB STATISTICS
      ============================================================ -->
 
 ## 📊 GITHUB ANALYTICS
@@ -197,24 +190,6 @@ motto: "Build things that matter. Ship things that work."
 <br/>
 
 <div align="center">
-
-### 📈 STATS OVERVIEW
-
-<br/>
-
-<!-- Main Stats Card + Languages side by side using table -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=imran4215&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00FF88&icon_color=00D4FF&text_color=ffffff&border_radius=10" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran4215&layout=compact&theme=radical&hide_border=true&bg_color=0a0e17&title_color=00FF88&text_color=ffffff&border_radius=10" />
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
 
 ### 🔥 STREAK TRACKER
 
@@ -231,15 +206,6 @@ motto: "Build things that matter. Ship things that work."
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran4215&theme=react-dark&hide_border=true&bg_color=0a0e17&color=00FF88&line=FF0066&point=00D4FF&area=true&area_color=00FF88&border_radius=10" width="100%" />
-
-<br/><br/>
-
-### 🏆 TROPHY CABINET
-
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=imran4215&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
 </div>
 
@@ -271,6 +237,39 @@ motto: "Build things that matter. Ship things that work."
 
 <br/>
 <sub><i>⚡ The snake automatically updates every day via GitHub Actions.</i></sub>
+
+</div>
+
+<br/>
+
+<!-- ============================================================
+     DIVIDER
+     ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="100%" />
+
+<br/>
+
+<!-- ============================================================
+     PROJECTS
+     ============================================================ -->
+
+## 💼 PROJECTS
+
+<br/>
+
+<div align="center">
+
+| # | Project | Stack | Links |
+|:-:|:---|---:|:---:|
+| 🎲 | **3D Chess Game** | JavaScript, CSS | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/3d-chess-game) |
+| 🍔 | **QuickBite** | React, JavaScript, CSS | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/QuickBite-) |
+| ⚖️ | **Justice Tracker** | JavaScript, CSS, HTML | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/Justice-Tracker) |
+| 🛒 | **E-Commerce Basic** | JavaScript, CSS, HTML | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/E-Commerce-Basic) |
+| 📚 | **LMS Basic** | JavaScript, CSS, HTML | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/LMS-Basic) |
+| 🔐 | **User Auth** | JavaScript, CSS | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/User-Authentication) |
+| ✅ | **ToDo App** | JavaScript, CSS, HTML | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/ToDo) |
+| 🗄️ | **DBMS Project** | JavaScript, CSS | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/DBMS-Project) |
+| 🏆 | **IT Hackathon** | JavaScript, CSS, HTML | [![Repo](https://img.shields.io/badge/Code-111827?style=flat-square&logo=github)](https://github.com/imran4215/01-IT-Hackathon) |
 
 </div>
 
